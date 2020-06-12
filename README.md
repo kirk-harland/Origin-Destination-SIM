@@ -13,4 +13,4 @@ The algorithm used to calibrate the model is Simulated Annealing. This algorithm
 * Source Code - contains the Java source code used to produce the model, the measurement metrics and complete optimisation algorithm.
 
 ## Licence details
-Please see the file LICENCE.txt for details of the distribution licence
+Please see the file LICENCE.md or [GNU General Public License](http://www.gnu.org/licenses/gpl-3.0.html) for details of the distribution licence
